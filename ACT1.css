@@ -1,0 +1,115 @@
+body{
+background: yellow;
+}
+.cuadrito{
+	position: absolute;
+	left: 1%;
+	height: 90%;
+	top: 4%;
+	right: 1%;
+	background: url("satoru-gojo FACHERO.jpg");
+	background-size: cover;
+	border: solid 5px black;
+}
+.titulo{
+	font-size: 50px;
+	color: black;	
+	position: absolute;
+	top: 1%;
+	left: 5%;
+	right: 30%;
+	width: 32%;
+	height: 16%;
+	border: solid 5px black;
+	padding-left:25px;
+	padding-top:2px;
+	padding-right:25px;
+	box-sizing: border-box;
+	background: #2EFEF7;
+}
+.parr1{
+	position: absolute;
+	top: 20%;
+	left: 5%;
+	width: 31%;
+	height: 27%;
+	background: #2EFEF7;
+	border: solid 5px;
+}
+.ft1{
+	position: absolute;
+	top: 60%;
+	left: 4%;
+	width: 15%;
+	height: 29%;
+	background: url("satoru gojo.png");
+	background-size: cover;
+	border: solid 5px black;
+}
+.parr2{
+	position: absolute;
+	top: 60%;
+	left: 21%;
+	width: 15%;
+	height: 29%;
+	background: #2EFEF7;
+	border: solid 5px;
+}
+.cuadro2{
+	position: absolute;
+	top: 1%;
+	left: 58%;
+	height: 56%;
+	width: 40%;
+	border: solid 5px;
+	background: #2EFEF7;
+}
+.parr3{
+	position: absolute;
+	top: 3%;
+	left: 59%;
+	height: 20%;
+	width: 38%;
+	border: solid 5px;
+	background: white;
+}
+.ft2{
+	position: absolute;
+	top: 26%;
+	left: 60%;
+	width: 15%;
+	height: 29%;
+	background: url("jujutsu kaisen.jpg");
+	background-size: cover;
+	border: solid 5px black;	
+}
+.ft3{
+	position: absolute;
+	top: 26%;
+	left: 80%;
+	width: 15%;
+	height: 29%;
+	background: url("jujutsu kaisen1.jpg");
+	background-size: cover;
+	border: solid 5px black;	
+
+}
+.parr4{
+	position: absolute;
+	top: 60%;
+	left: 58%;
+	width: 20%;
+	height: 29%;
+	background: #2EFEF7;
+	border: solid 5px black;
+}
+.ft4{
+	position: absolute;
+	top: 60%;
+	left: 83%;
+	width: 15%;
+	height: 29%;
+	background: url("nezuko.jpg");
+	background-size: cover;
+	border: solid 5px black;	
+}
